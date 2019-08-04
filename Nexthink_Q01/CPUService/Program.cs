@@ -30,12 +30,13 @@ namespace Nexthink_Q01.Services
 
             if (args.Length == 0)
             {
+                ConsoleColor defaultColor = Console.ForegroundColor;
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("Please give arguments [Process Name, Interval Time, Total Time]");
                 Console.WriteLine("Here are the currently running Processes:");
                 Console.ForegroundColor = ConsoleColor.DarkCyan;
                 processTest.ListAllRunningProcess();
-                Console.ForegroundColor = ConsoleColor.White;
+                Console.ForegroundColor = defaultColor;
                 return;
             }
 

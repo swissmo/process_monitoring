@@ -112,20 +112,20 @@ namespace Nexthink_Q01.Services
         /// Function checks if there is a possible memory leak.
         /// </summary>
         public void CheckMemoryLeak() {
-            
+            ConsoleColor defaultColor = Console.ForegroundColor;
             if (memoryLeakAlgo > 0)
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("Warning: Memory usage increased more often than it decreased!!!");
-                Console.ForegroundColor = ConsoleColor.White;
+                Console.ForegroundColor = defaultColor;
             } else if (memoryLeakWarning) {
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("Warning: Memory usage never decreased, possible memory leak detected!!!");
-                Console.ForegroundColor = ConsoleColor.White;
+                Console.ForegroundColor = defaultColor;
             } else {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("No memory leak detected.");
-                Console.ForegroundColor = ConsoleColor.White;
+                Console.ForegroundColor = defaultColor;
             }
             Console.WriteLine("");
         }
