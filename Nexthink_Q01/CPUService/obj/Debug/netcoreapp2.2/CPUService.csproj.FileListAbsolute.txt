@@ -1,0 +1,11 @@
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService/obj/Debug/netcoreapp2.2/CPUService.csprojAssemblyReference.cache
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService/obj/Debug/netcoreapp2.2/CPUService.csproj.CoreCompileInputs.cache
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService/obj/Debug/netcoreapp2.2/CPUService.AssemblyInfoInputs.cache
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService/obj/Debug/netcoreapp2.2/CPUService.AssemblyInfo.cs
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService/bin/Debug/netcoreapp2.2/CPUService.deps.json
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService/bin/Debug/netcoreapp2.2/CPUService.runtimeconfig.json
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService/bin/Debug/netcoreapp2.2/CPUService.runtimeconfig.dev.json
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService/bin/Debug/netcoreapp2.2/CPUService.dll
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService/bin/Debug/netcoreapp2.2/CPUService.pdb
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService/obj/Debug/netcoreapp2.2/CPUService.dll
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService/obj/Debug/netcoreapp2.2/CPUService.pdb

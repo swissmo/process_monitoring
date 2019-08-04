@@ -1,0 +1,17 @@
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/obj/Debug/netcoreapp2.2/CPUService.Tests.csprojAssemblyReference.cache
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/obj/Debug/netcoreapp2.2/CPUService.Tests.csproj.CoreCompileInputs.cache
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/obj/Debug/netcoreapp2.2/CPUService.Tests.AssemblyInfoInputs.cache
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/obj/Debug/netcoreapp2.2/CPUService.Tests.AssemblyInfo.cs
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/bin/Debug/netcoreapp2.2/CPUService.Tests.deps.json
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/bin/Debug/netcoreapp2.2/CPUService.Tests.runtimeconfig.json
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/bin/Debug/netcoreapp2.2/CPUService.Tests.runtimeconfig.dev.json
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/bin/Debug/netcoreapp2.2/CPUService.Tests.dll
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/bin/Debug/netcoreapp2.2/CPUService.Tests.pdb
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/bin/Debug/netcoreapp2.2/CPUService.dll
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/bin/Debug/netcoreapp2.2/CPUService.pdb
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/obj/Debug/netcoreapp2.2/CPUService.Tests.csproj.CopyComplete
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/obj/Debug/netcoreapp2.2/CPUService.Tests.dll
+/Users/ymoser/Documents/Nexthink Exercise/Nexthink_Q01/CPUService.Tests/obj/Debug/netcoreapp2.2/CPUService.Tests.pdb
