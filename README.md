@@ -14,18 +14,16 @@ Monitors a process and outputs the CPU % usage, memory usage and handle/file usa
  
    Where :
    
-     **PROCESS_NAME** is the name of the process to monitor.
-     
-     **INTERVAL_TIME** is the number of milliseconds to be used for the interval time.
-     
-     **TOTAL_TIME** is the time the monitoring should run for.
+     - **PROCESS_NAME** is the name of the process to monitor.
+     - **INTERVAL_TIME** is the number of milliseconds to be used for the interval time.
+     - **TOTAL_TIME** is the time the monitoring should run for.
       
-    Examples:
-        
+   Examples:
+   
         _dotnet run -- “dotnet” “100” “4000”_
         
           This will run the monitoring of the process dotnet and use the interval time of 100ms and run for 4 seconds (4000ms).
         
         _dotnet run_
-          
+        
           This will display the currently running processes.
